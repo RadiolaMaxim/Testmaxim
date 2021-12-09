@@ -1,0 +1,28 @@
+Added Component: Designator=*(GL827L)
+Add component (AddParameter): Name = "Part Number"; Value = "GL827L"; VariantName = "[No Variations]"
+Added Component: Designator=P1(48037-0001)
+Add component (AddParameter): Name = "Part Number"; Value = "48037-0001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поле1"; Value = "USB Connector, USB Type A, USB 2.0, Plug, 4 Ways, Through Hole Mount, Right Angle"; VariantName = "[No Variations]"
+Added Component: Designator=P2(502570-0893)
+Add component (AddParameter): Name = "Part Number"; Value = "502570-0893"; VariantName = "[No Variations]"
+Added Component: Designator=Y1(HC49S-3)
+Add component (AddParameter): Name = "Part Number"; Value = "HC49S-3"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=P1-1
+Added Pin To Net: NetName=NetP1_2 Pin=P1-2
+Added Pin To Net: NetName=NetP1_3 Pin=P1-3
+Added Pin To Net: NetName=GND Pin=P1-4
+Added Pin To Net: NetName=Net*_23 Pin=P2-1
+Added Pin To Net: NetName=Net*_21 Pin=P2-2
+Added Pin To Net: NetName=GND Pin=P2-3
+Added Pin To Net: NetName=Net*_20 Pin=P2-4
+Added Pin To Net: NetName=Net*_18 Pin=P2-5
+Added Pin To Net: NetName=Net*_22 Pin=P2-6
+Added Pin To Net: NetName=Net*_15 Pin=P2-7
+Added Pin To Net: NetName=Net*_19 Pin=P2-8
+Added Pin To Net: NetName=Net*_7 Pin=Y1-1
+Added Pin To Net: NetName=Net*_6 Pin=Y1-2
+Added Member To Class: ClassName=TCRME lab3 Member=Component * GL827L
+Added Member To Class: ClassName=TCRME lab3 Member=Component P1 48037-0001
+Added Member To Class: ClassName=TCRME lab3 Member=Component P2 502570-0893
+Added Member To Class: ClassName=TCRME lab3 Member=Component Y1 HC49S-3
+Added Room: Name=TCRME lab3
